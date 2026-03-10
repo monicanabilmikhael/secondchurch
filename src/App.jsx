@@ -307,7 +307,7 @@ export default function App() {
       {/* Header */}
       <header className="header">
         <div className="header-cross">☦</div>
-        <h1> بيانات شمامسة كنيسة العذراء مريم بمرسي مطروحٍٍ</h1>
+        <h1> بيانات شمامسة كنيسة الملاك ميخائيل والانبا بولا مريم بمرسي مطروحٍٍ</h1>
         <p className="header-sub">نظام إدارة وحفظ بيانات الشمامسة</p>
         <div className="header-ornament" />
       </header>
@@ -525,7 +525,7 @@ export default function App() {
       {/* Footer */}
       <footer className="footer">
         <div className="footer-cross">☦</div>
-        <p>كنيسة العذراء مريم — نظام إدارة بيانات الشمامسة</p>
+        <p>كنيسة الملاك ميخائيل والانبا بولا — نظام إدارة بيانات الشمامسة</p>
       </footer>
     </div>
   );
